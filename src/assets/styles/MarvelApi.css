@@ -1,0 +1,31 @@
+.card-column {
+    margin: 0px 0px 40px 0px;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.card-image {
+    height: 22rem;
+}
+
+.marvel-api {
+    margin-top: 100px;
+}
+
+.card-text {
+    margin-top: 15px;
+}
+
+
+
+.button-url {
+    margin-top: 10px;
+
+
+}
+
+.button-description{
+    margin-left: 10px;
+    margin-top: 10px;
+}
